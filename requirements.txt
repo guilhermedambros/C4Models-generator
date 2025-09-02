@@ -1,0 +1,5 @@
+Flask
+diagrams
+pydot
+graphviz
+requests
